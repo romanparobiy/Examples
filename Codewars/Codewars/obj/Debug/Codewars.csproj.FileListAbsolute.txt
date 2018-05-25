@@ -1,0 +1,7 @@
+D:\Prog\__SoftServe\Codewars\Codewars\bin\Debug\Codewars.exe.config
+D:\Prog\__SoftServe\Codewars\Codewars\bin\Debug\Codewars.exe
+D:\Prog\__SoftServe\Codewars\Codewars\bin\Debug\Codewars.pdb
+D:\Prog\__SoftServe\Codewars\Codewars\obj\Debug\Codewars.csprojResolveAssemblyReference.cache
+D:\Prog\__SoftServe\Codewars\Codewars\obj\Debug\Codewars.csproj.CoreCompileInputs.cache
+D:\Prog\__SoftServe\Codewars\Codewars\obj\Debug\Codewars.exe
+D:\Prog\__SoftServe\Codewars\Codewars\obj\Debug\Codewars.pdb
